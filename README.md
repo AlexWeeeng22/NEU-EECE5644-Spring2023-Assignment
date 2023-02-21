@@ -1,4 +1,4 @@
-# NEU-EECE5644-spring-assignment
+# NEU-EECE5644-Spring2023-Assignment
 
 -Northeastern University Spring Semester 2023 EECE5644 Assignments and Projects
 -Just for your reference
